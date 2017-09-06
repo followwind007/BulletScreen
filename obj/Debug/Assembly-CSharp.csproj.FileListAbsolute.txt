@@ -1,0 +1,12 @@
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\UnityEditor.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\UnityEngine.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\nunit.framework.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\albertzuo\Desktop\BulletScreen\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\albertzuo\Desktop\BulletScreen\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\albertzuo\Desktop\BulletScreen\obj\Debug\Assembly-CSharp.dll
+C:\Users\albertzuo\Desktop\BulletScreen\obj\Debug\Assembly-CSharp.pdb
